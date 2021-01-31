@@ -9,3 +9,8 @@ print("1+1=",1+1)
 
 def x():
   print("This is defination")
+
+x()
+x()
+
+#Defination Called
